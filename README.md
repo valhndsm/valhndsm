@@ -27,10 +27,10 @@
   <tr>
     <td width="45%">
       <b>Who am I?</b><br><br>
-      🔭 Studying <b>Computer Science</b> (Predictive Analysis focus).<br>
-      💻 Specializing in <b>AI Engineering, Data Analysis, & Web Dev</b>.<br>
+      🔭 Studying <b>Information Technology</b> (Software Development focus).<br>
+      💻 Specializing in <b>Web Development, Networking, & Database Management</b>.<br>
       ♟️ Passionate about <b>Chess, MOBAs, & Web3 Gaming</b>.<br>
-      🎯 Goal: Leveraging data to build smarter web applications.
+      🎯 Goal: Building efficient and user-friendly digital solutions.
     </td>
     <td width="55%" align="center">
       <b>Core Technologies</b><br>
