@@ -62,12 +62,12 @@
 ### 📊 Advanced GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Val Medalla&show_icons=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=007BFF&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=valhndsm&show_icons=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=007BFF&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valhndsm&background=0D1117&ring=00F0FF&fire=007BFF&currStreakNum=00F0FF&currStreakLabel=007BFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valhndsm&bg_color=0D1117&color=c9d1d9&line=00F0FF&point=007BFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Val Medalla&bg_color=0D1117&color=c9d1d9&line=00F0FF&point=007BFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
