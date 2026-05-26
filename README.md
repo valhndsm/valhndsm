@@ -91,5 +91,4 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007BFF,00F0FF&height=100&section=footer" alt="Footer" />
-</div>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F0FF&height=100&section=footer" alt="Footer"/>
